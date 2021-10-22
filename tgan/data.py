@@ -14,7 +14,7 @@ from tensorpack import DataFlow, RNGDataFlow
 
 DEMO_DATASETS = {
     'census': (
-        'http://hdi-project-tgan.s3.amazonaws.com/census-train.csv',
+        'https://drive.google.com/file/d/1ikD3UVbYfjxYAEkBQEXvVmzj-6rkew6W/view?usp=sharing',
         'data/census.csv',
         [0, 5, 16, 17, 18, 29, 38]
     ),
